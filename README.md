@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Ainz
-- the w6rst
+# `Ainz`
+> **Name:** Mark Ain Ello
+>
+> **Course:** BS Computer Engineering
+
 
 <!---
 Ainzyy/Ainzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
